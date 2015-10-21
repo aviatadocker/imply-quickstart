@@ -1,0 +1,2 @@
+#!/bin/bash
+bin/post-index-task --file quickstart/wikiticker-index.json
